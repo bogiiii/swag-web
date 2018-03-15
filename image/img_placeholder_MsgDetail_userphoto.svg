@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>img_placeholder_MsgDetail_userphoto</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-99.000000, -346.000000)">
+        <g id="img_placeholder_MsgDetail_userphoto" transform="translate(98.000000, 345.000000)">
+            <g id="Group-7" transform="translate(0.612903, 0.612903)">
+                <rect id="Mask" fill="#282828" x="-9.9475983e-14" y="0" width="100" height="100"></rect>
+                <g id="Group" transform="translate(25.225806, 25.225806)" stroke="#00E6D2" stroke-width="2">
+                    <ellipse id="Oval-8" cx="25.0339559" cy="14.8139283" rx="13.6434635" ry="13.6545152"></ellipse>
+                    <path d="M17.5514796,26.664971 C17.5514796,26.664971 4.84367361,29.8169063 0.203735144,50.3032941" id="Path-17" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M32.8013582,26.664971 C32.8013582,26.664971 45.5091643,29.8169063 50.1491027,50.3032941" id="Path-17" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_chatroom_error</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-353.000000, -189.000000)">
+        <g id="ic_chatroom_error" transform="translate(353.000000, 189.000000)">
+            <g id="Group-2" transform="translate(2.000000, 2.000000)">
+                <path d="M9,14.5 C8.4485,14.5 8,14.0515 8,13.5 C8,12.9485 8.4485,12.5 9,12.5 C9.551,12.5 10,12.9485 10,13.5 C10,14.0515 9.551,14.5 9,14.5" id="Fill-83" fill="#FF7878"></path>
+                <path d="M9,11 C8.7235,11 8.5,10.776 8.5,10.5 L8.5,3.5 C8.5,3.224 8.7235,3 9,3 C9.2765,3 9.5,3.224 9.5,3.5 L9.5,10.5 C9.5,10.776 9.2765,11 9,11" id="Fill-85" fill="#FF7878"></path>
+                <circle id="Oval-5" stroke="#FF7878" stroke-width="0.75" cx="9" cy="9" r="8.625"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

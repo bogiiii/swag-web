@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>img_empty_cryface</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -346.000000)">
+        <g id="img_empty_cryface" transform="translate(19.000000, 346.000000)">
+            <g id="Group-3" transform="translate(9.500000, 9.000000)">
+                <path d="M20.5,41 C9.1965,41 0,31.8035 0,20.5 C0,9.1965 9.1965,0 20.5,0 C31.8035,0 41,9.1965 41,20.5 C41,31.8035 31.8035,41 20.5,41 Z" id="Stroke-1" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13.5,31.5 C15.0965292,29.6216229 17.7131463,28.5 20.5001664,28.5 C23.2868537,28.5 25.9034708,29.6216229 27.5,31.5" id="Stroke-3" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M28.5,17.5 C27.6729587,17.5 27,16.8269428 27,15.9997805 C27,15.1726182 27.6729587,14.5 28.5,14.5 C29.3270413,14.5 30,15.1726182 30,15.9997805 C30,16.8269428 29.3270413,17.5 28.5,17.5" id="Fill-5" fill="#FFFFFF"></path>
+                <path d="M12.5,17.5 C11.6729587,17.5 11,16.8269428 11,15.9997805 C11,15.1726182 11.6729587,14.5 12.5,14.5 C13.3270413,14.5 14,15.1726182 14,15.9997805 C14,16.8269428 13.3270413,17.5 12.5,17.5" id="Fill-7" fill="#FFFFFF"></path>
+                <path d="M28.5,26.5 C27.3971707,26.5 26.5,25.6028293 26.5,24.5 C26.5,23.6672195 27.5766829,21.504878 27.9068293,20.8621463 C28.0211707,20.6397073 28.2498537,20.5 28.5,20.5 C28.7501463,20.5 28.9788293,20.6397073 29.0931707,20.8621463 C29.4233171,21.504878 30.5,23.6672195 30.5,24.5 C30.5,25.6028293 29.6028293,26.5 28.5,26.5 Z" id="Stroke-9" stroke="#FFFFFF" stroke-width="0.780487805" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

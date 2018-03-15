@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_chatroom_creat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-17.000000, -189.000000)" stroke-linecap="round" stroke-linejoin="round">
+        <g id="btn_chatroom_creat" transform="translate(17.000000, 189.000000)" stroke="#828282">
+            <path d="M3,11.5 L19,11.5" id="Line"></path>
+            <path d="M11.5,19 L11.5,3" id="Line"></path>
+        </g>
+    </g>
+</svg>

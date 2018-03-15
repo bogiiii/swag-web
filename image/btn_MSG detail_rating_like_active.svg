@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_MSG detail_rating_like_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-17.5%" y="-12.5%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-143.000000, -229.000000)">
+        <g id="btn_MSG-detail_rating_like_active" transform="translate(143.000000, 229.000000)">
+            <g id="Group-3" filter="url(#filter-1)" transform="translate(1.000000, 1.000000)">
+                <circle id="Oval-3" fill="#FFD21F" cx="10" cy="10" r="10"></circle>
+                <path d="M9.90730541,12.8707046 C6.2282145,12.8707046 5.18503268,11.4020682 5.07866905,11.234341 C4.93003268,11.0016137 4.9982145,10.6925228 5.23094177,10.544341 C5.46412359,10.3957046 5.77275996,10.4638864 5.92094177,10.6966137 C5.92366905,10.70025 6.77912359,11.8711591 9.90730541,11.8711591 C13.0609418,11.8711591 13.9295781,10.6907046 13.9373054,10.6788864 C14.0891236,10.4484319 14.3995781,10.38525 14.6300327,10.5375228 C14.8600327,10.689341 14.9232145,10.9997955 14.7709418,11.23025 C14.6600327,11.3979773 13.5809418,12.8707046 9.90730541,12.8707046" id="Fill-4" fill="#403408"></path>
+                <path d="M16.5534364,4.84716511 C17.028891,4.23489239 17.758891,3.94171057 18.5152546,4.27216511 C19.4652546,4.68671057 19.648891,5.68352875 19.2343455,6.63352875 C18.9357092,7.3189833 17.6320728,8.59534693 16.9284364,9.2539833 C16.6752546,9.49080148 16.2807092,9.48443784 16.0352546,9.2389833 C15.353891,8.55852875 14.0920728,7.23989239 13.8157092,6.54534693 C13.4320728,5.58216511 13.648891,4.59216511 14.6116183,4.20852875 C15.3784364,3.9030742 16.0984364,4.21943784 16.5534364,4.84716511 Z" id="Fill-6" fill="#F01E64"></path>
+                <path d="M1.42959896,4.20852875 C2.19641714,3.9030742 2.91641714,4.21943784 3.37141714,4.84716511 C3.84687169,4.23489239 4.57732623,3.94171057 5.33323532,4.27216511 C6.28368987,4.68671057 6.46732623,5.68352875 6.05278078,6.63352875 C5.75368987,7.3189833 4.45005351,8.59534693 3.74687169,9.2539833 C3.49323532,9.49080148 3.09868987,9.48443784 2.85323532,9.2389833 C2.17187169,8.55852875 0.910053506,7.23989239 0.63368987,6.54534693 C0.250508051,5.58216511 0.466871688,4.59216511 1.42959896,4.20852875" id="Fill-8" fill="#F01E64"></path>
+            </g>
+        </g>
+    </g>
+</svg>

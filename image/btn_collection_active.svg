@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_collection_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.1825843,1.71549017 L14.2585779,5.92868706 C14.4437967,6.30602632 14.8052305,6.56863406 15.223259,6.631099 L19.9026052,7.32458739 C20.9573231,7.48138715 21.3727791,8.76765512 20.6061792,9.50193694 L17.2040707,12.7603125 C16.9005178,13.0522405 16.7603174,13.4729228 16.8297745,13.8872311 L17.6092368,18.5121867 C17.7854518,19.5536941 16.6792842,20.3440669 15.7377555,19.8481717 L11.5600435,17.6491506 C11.1857473,17.4515574 10.7381353,17.4502826 10.3625528,17.6440515 L6.16554712,19.8073783 C5.2201597,20.2956247 4.12042331,19.4963283 4.30564207,18.4560958 L5.12497784,13.8387889 C5.19829359,13.4244806 5.06195201,13.0025235 4.75968528,12.7080459 L1.38587412,9.42162487 C0.625705455,8.68096908 1.0527376,7.39725069 2.10745554,7.24937449 L6.79194668,6.59540475 C7.21126137,6.53676419 7.57526768,6.27670604 7.76434517,5.90191637 L9.87635353,1.70529182 C10.3509766,0.760668854 11.7143925,0.765768033 12.1825843,1.71549017 Z" id="path-1"></path>
+        <filter x="-17.5%" y="-13.2%" width="135.0%" height="136.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-227.000000, -229.000000)">
+        <g id="btn_collection_active" transform="translate(227.000000, 229.000000)">
+            <g id="Stroke-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFD100" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

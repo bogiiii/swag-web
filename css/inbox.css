@@ -1,0 +1,88 @@
+/*Inbox*/
+
+.inbox-item {
+    -webkit-padding-start: 0;
+}
+.inbox-item .item {
+	padding: 10px 0;
+	border-bottom: 1px solid #5A5A5A;
+	min-height: 72px;
+}
+
+.inbox-item .user-avatar {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.inbox-item .user-avatar img {
+	width: 50px;
+	height: 50px;
+	border-radius: 8px;
+	border: 1px solid #5A5A5A;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+.inbox-item .item .text {
+    display: inline-block;
+	padding: 0;
+	width: calc(100% - 60px);
+	position: relative;
+}
+
+.inbox-item .item .text .username,
+.inbox-item .item .text .msg-content {
+	margin-bottom: 4px;
+	width: calc(100% - 60px);
+}
+
+.inbox-item .item .text .new_msg {
+	font-size: 0.75rem;
+	color: #60C4E8;
+	margin-top: 2px;
+}
+
+.inbox-item .item .text .new_msg:before {
+	content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #60C4E8;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.read .text {
+	color: #828282;
+}
+
+.read .new_msg,
+.read .msg_price {
+	display: none;
+}
+
+.msg_price {
+	color: #00E6D2;
+}
+
+.text .ic-diamond {
+    width: 18px;
+    height: 18px;
+    background-size: 18px auto;
+    margin-right: 5px;
+    margin-bottom: -3px;
+}
+
+.recommend .ic-heart {
+    width: 18px;
+    height: 18px;
+    background-size: 18px auto;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+#inbox-page #msg-timer {
+	margin-right: 2px;
+}

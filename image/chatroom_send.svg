@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>chatroom_send</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-185.000000, -189.000000)">
+        <g id="chatroom_send" transform="translate(185.000000, 189.000000)" fill="#00E6D2">
+            <path d="M1.8815,20.9338061 C1.4795,21.1353061 1,20.8528061 1,20.4148061 L1,12.4243061 C1,12.1253061 1.233,11.8748061 1.54,11.8433061 L9.313,11.3523061 C9.7455,11.3073061 9.745,10.6983061 9.3125,10.6548061 L1.541,10.1733061 C1.2335,10.1423061 1,9.89180609 1,9.59230609 L1,1.58530609 C1,1.14680609 1.4795,0.864806092 1.8815,1.06630609 L20.6735,10.4813061 C21.1085,10.6988061 21.1085,11.3008061 20.6735,11.5188061 L1.8815,20.9338061 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>

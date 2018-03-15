@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_badge_swagger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-283.000000, -296.000000)">
+        <g id="ic_badge_swagger" transform="translate(283.000000, 296.000000)">
+            <g id="badge_more">
+                <g id="Group-6">
+                    <circle id="Oval-2" fill="#323232" cx="10" cy="10" r="10"></circle>
+                    <g id="Group-4" transform="translate(4.000000, 4.000000)" stroke="#FFFFFF">
+                        <path d="M11,5.94047619 C11,8.73491443 8.73491443,11 5.94047619,11 C3.14603795,11 0.880952381,8.73491443 0.880952381,5.94047619 C0.880952381,3.14603795 3.14603795,0.880952381 5.94047619,0.880952381 C8.73491443,0.880952381 11,3.14603795 11,5.94047619 Z" id="Stroke-1"></path>
+                        <path d="M6.81803867,0.988740605 C8.41625855,0.178874843 9.8291249,0.0307729892 10.5420697,0.743721382 C11.7371759,1.93853082 10.5123889,5.10076284 7.80659082,7.80657462 C5.10079276,10.5123864 1.93857678,11.7371797 0.74347054,10.5420674 C0.0308286279,9.82911896 0.178929731,8.41654831 0.988791385,6.81801746" id="Stroke-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

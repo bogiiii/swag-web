@@ -1,0 +1,124 @@
+
+/*Explore*/
+
+.explore-block h5 {
+	padding-bottom: 8px;
+	border-bottom: 1px #444444 solid;
+	margin-bottom: 12px;
+}
+
+.icon-badge {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	margin-right: 6px;
+}
+
+.icon-badge img {
+	width: 100%;
+	height: 100%;
+}
+
+
+.see-all {
+	font-size: 60%;
+    color: #00D2BE;
+    border: 1px solid #00D2BE;
+    padding: .4em .6em;
+    border-radius: 4px;
+    font-weight: 200;
+}
+
+.see-all:hover,
+.see-all:active {
+	opacity: .7;
+    color: #00D2BE;
+}
+
+.explore-item {
+    -webkit-padding-start: 15px;
+    display: flex;
+    margin: 0 -15px 20px;
+    padding-bottom: 20px;
+}
+
+.explore-page-item {
+    -webkit-padding-start: 0;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.explore-item .item {
+	width: 145px;
+	margin-right: 10px;
+}
+
+.explore-page-item .item {
+	margin: 10px 0;
+}
+
+.explore-item .item .user-cover {
+	width: 145px;
+	height: 212px;
+	display: inline-block;
+	margin-bottom: 8px;
+}
+
+.explore-page-item .item .user-cover {
+	display: inline-block;
+	margin-bottom: 8px;
+    height: 85%;
+}
+
+.explore-item .item .user-cover img {
+    width: 100%;
+	height: 100%;
+	border: 1px solid #5A5A5A;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+.explore-page-item .item .user-cover img {
+    width: 100%;
+	height: 100%;
+	border: 1px solid #5A5A5A;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+.user-name {
+	width: calc(100% - 38px);
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+.btn-follow {
+	display: inline-block;
+	width: 34px;
+	height: 22px;
+	background-image: url(../image/btn_explore_follow.svg);
+	background-size: 34px auto;
+}
+
+.btn-followed {
+	display: inline-block;
+	width: 34px;
+	height: 22px;
+	background-image: url(../image/btn_explore_followed.svg);
+	background-size: 34px auto;
+}
+
+.btn-follow:hover,
+.btn-follow:active,
+.btn-followed:hover,
+.btn-followed:active {
+	opacity: .7;
+}
+
+.explore-ad {
+	display: block;
+	margin: 20px -15px;
+}

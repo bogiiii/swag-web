@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_inbox_video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-76.000000, -267.000000)">
+        <g id="ic_inbox_video" transform="translate(76.000000, 267.000000)" fill="#FFFFFF">
+            <path d="M12.2007,1 C13.74665,1 15,2.25475 15,3.7993 L15,12.2007 C15,13.74665 13.7456,15 12.2007,15 L3.79965,15 C2.25335,15 1,13.74525 1,12.2007 L1,3.7993 C1,2.25335 2.25475,1 3.79965,1 L12.2007,1 Z M5.91202419,4.59333333 C5.49185514,4.59333333 5.10666667,4.92000547 5.10666667,5.37601788 L5.10666667,10.4839821 C5.10666667,10.9399945 5.49185514,11.2666667 5.91202419,11.2666667 C6.04591539,11.2666667 6.18342526,11.2334524 6.31289362,11.1607718 L10.86439,8.60678963 C11.4007589,8.30590741 11.4007589,7.55409259 10.86439,7.25321037 L6.31289362,4.69922825 C6.18342526,4.62654761 6.04591539,4.59333333 5.91202419,4.59333333 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

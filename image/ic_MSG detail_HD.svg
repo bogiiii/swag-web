@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_MSG detail_HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8.3325 0 7.78066667 3.36930556 4.00061538 3.36930556 4.58008974 0 1.683 0 0 9.72791667 2.89694872 9.72791667 3.58684615 5.76069444 7.36675641 5.76069444 6.67685897 9.72791667 9.54644872 9.72791667 11.2294487 0"></polygon>
+        <filter x="-8.9%" y="-10.3%" width="135.6%" height="141.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M12.6366026,0.138875 L12.2503333,2.39429167 L17.6857436,2.39429167 C18.6791282,2.39429167 19.0928974,2.66595833 18.8721923,3.91595833 L18.5410641,5.953875 C18.347859,6.98651389 17.8513077,7.61151389 16.7752821,7.61151389 L14.2644615,7.61151389 L14.954359,3.50831944 L12.0572692,3.50831944 L10.9812436,9.86679167 L16.8580641,9.86679167 C19.8654359,9.86679167 21.0518846,8.61693056 21.4932949,5.953875 L21.8519231,3.91595833 C22.3209744,1.17151389 21.1621667,0.138875 18.1547949,0.138875 L12.6366026,0.138875 Z" id="path-3"></path>
+        <filter x="-9.1%" y="-10.3%" width="136.5%" height="141.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-185.000000, -229.000000)" opacity="0.4">
+        <g id="ic_MSG-detail_HD" transform="translate(185.000000, 229.000000)">
+            <g id="Group-8" transform="translate(0.000000, 6.000000)">
+                <g id="Fill-1">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Fill-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

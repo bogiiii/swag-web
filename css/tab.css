@@ -1,0 +1,74 @@
+
+
+/*Tab*/
+
+.tab {
+	background-color: #191919;
+	height: 50px;
+	margin: 0;
+}
+
+.tab a {
+	display: inline-block;
+	width: 20%;
+	margin-top: .1em;
+}
+
+.tab-btn {
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: 2px;
+    margin-top: 2px;
+    background-size: 45px auto;
+    width: 45px;
+    height: 45px;
+    margin: 0 auto;
+}
+
+.tab-inbox {
+	background-image: url(../image/btn_tab_inbox.svg);
+}
+
+.tab-inbox.active {
+	background-image: url(../image/btn_tab_inbox_active.svg);
+}
+
+.tab-chat {
+	background-image: url(../image/btn_tab_msg.svg);
+}
+
+.tab-chat.active {
+	background-image: url(../image/btn_tab_msg_active.svg);
+}
+
+.tab-chat.unread {
+	background-image: url(../image/btn_tab_msg_unread.svg);
+}
+
+.tab-chat.unread.active {
+	background-image: url(../image/btn_tab_msg_unread_active.svg);
+}
+
+.tab-shop {
+	background-image: url(../image/btn_tab_shop.svg);
+}
+
+.tab-shop.active {
+	background-image: url(../image/btn_tab_shop_active.svg);
+}
+
+.tab-explore {
+	background-image: url(../image/btn_tab_explore.svg);
+}
+
+.tab-explore.active {
+	background-image: url(../image/btn_tab_explore_active.svg);
+}
+
+.tab-profile {
+	background-image: url(../image/btn_tab_profile.svg);
+}
+
+.tab-profile.active {
+	background-image: url(../image/btn_tab_profile_active.svg);
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_tab_msg_new_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24.5" cy="9.5" r="2.5"></circle>
+    </defs>
+    <g id="ICON" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-78.000000, -49.000000)">
+        <g id="btn_tab_msg_new_active" transform="translate(78.000000, 49.000000)">
+            <path d="M15.1290323,21.9482247 C15.070662,21.9482247 15.0151209,21.9720835 14.9762767,22.0133509 L11.2701613,25.9444246 L11.2701613,22.144735 C11.2701613,22.0371393 11.1798255,21.9482247 11.0645161,21.9482247 L8.74193548,21.9482247 C7.575761,21.9482247 6.625,21.0124215 6.625,19.8586941 L6.625,10.7145306 C6.625,9.56080324 7.575761,8.625 8.74193548,8.625 L23.2580645,8.625 C24.424239,8.625 25.375,9.56080324 25.375,10.7145306 L25.375,19.8586941 C25.375,21.0124215 24.424239,21.9482247 23.2580645,21.9482247 L15.1290323,21.9482247 Z" id="Path" stroke="#00E6D2" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="Oval">
+                <use fill="#00E6D2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#191919" stroke-width="2" cx="24.5" cy="9.5" r="3.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
